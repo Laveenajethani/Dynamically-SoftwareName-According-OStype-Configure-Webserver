@@ -16,7 +16,7 @@
 
 <img src="Screenshots/ansible_cfg.PNG">
 
-In my second target node ansible login using SSH with the ubuntu user power but some task will perform using root power so in my inventory file I have mentioned the keyword [privilege_escalation] .
+**In my second target node ansible login using SSH with the ubuntu user power but some task will perform using root power so in my inventory file I have mentioned the keyword [privilege_escalation] .**
 
 #### In my target node I want to configure the webserver so target nodes are redhat and ubuntu OS so apache webserver software name is different for both the OS so  my ansible playbook will dynamically take software name according to OS type for this I have created two files RedHat.yml & Debian.yml .
 
@@ -27,7 +27,7 @@ In my second target node ansible login using SSH with the ubuntu user power but 
 <img src="Screenshots/RedHat.yml.png">
 
 ## For configuring webserver : Web Page : index.html
-Ansible using jinja templates so in the index.html file I have given {{content}} variable for loading the content of the web page this content will taken from the RedHat.yml and Debian.yml file
+**Ansible using jinja templates so in the index.html file I have given {{content}} variable for loading the content of the web page this content will taken from the RedHat.yml and Debian.yml file**
 
 <img src="Screenshots/index.html.PNG">
 
