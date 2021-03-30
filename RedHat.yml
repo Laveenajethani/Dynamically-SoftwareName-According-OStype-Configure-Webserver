@@ -1,0 +1,3 @@
+software: "httpd"
+service_name: "httpd"
+content: "this is webserver of RedHat OS"
