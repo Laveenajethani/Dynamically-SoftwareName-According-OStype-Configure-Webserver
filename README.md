@@ -8,7 +8,7 @@
 ## This target node 2 : Ubuntu OS : ec2 instance
 <img src="Screenshots/traget_node_ubuntu_ec2.PNG" >
 
-**In controller node I have inventory file in which I have mentioned the target node IP and other information**
+## In controller node I have inventory file in which I have mentioned the target node IP and other information
 
 <img src="Screenshots/inventory.PNG" >
 
