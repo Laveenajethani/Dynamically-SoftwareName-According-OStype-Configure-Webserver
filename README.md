@@ -34,3 +34,7 @@ Ansible using jinja templates so in the index.html file I have given {{content}}
 ## Ansible Playbook task.yml 
 
 <img src="Screenshots/ansible_playbook.png">
+
+## Let's run the playbook
+<img src="Screenshots/playbook_run.png">
+
