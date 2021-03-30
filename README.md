@@ -25,3 +25,7 @@ In my second target node ansible login using SSH with the ubuntu user power but 
 
 ## RedHat.yml (for RedHat OS)
 <img src="Screenshots/RedHat.yml.png">
+
+## For configuring webserver : Web Page : index.html
+Ansible using jinja templates so in the index.html file I have given {{content}} variable for loading the content of the web page this content will taken from the RedHat.yml and Debian.yml file
+<img src="Screenshots/index.html.PNG">
