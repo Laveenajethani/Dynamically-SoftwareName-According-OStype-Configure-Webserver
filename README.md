@@ -38,3 +38,11 @@ Ansible using jinja templates so in the index.html file I have given {{content}}
 ## Let's run the playbook
 <img src="Screenshots/playbook_run.png">
 
+#### Webserver is configured in both target nodes 
+
+## Let's test both webservers
+
+<img src="Screenshots/ubuntu_webserver.png">
+<img src="Screenshots/redhat_webserver.png">
+
+
