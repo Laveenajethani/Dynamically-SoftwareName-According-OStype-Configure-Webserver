@@ -38,7 +38,7 @@
 ## Let's run the playbook
 <img src="Screenshots/playbook_run.png">
 
-#### Webserver is configured in both target nodes 
+## Webserver is configured in both target nodes 
 
 ## Let's test both webservers
 
